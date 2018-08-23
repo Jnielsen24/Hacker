@@ -1,6 +1,6 @@
 /**
- * Author: Jordan Nielsen
- * Date: 2016/11/02
+ * Author: Riddock Moran
+ * Date: 2018/23/8
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Jordan Nielsen Mechanical Engineering\n");
+  printf("Riddock Moran- Computer Engineering\n");
 
   return 0;
 }
